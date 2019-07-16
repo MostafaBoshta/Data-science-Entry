@@ -1,0 +1,18 @@
+print(3 + 2)
+print(3 - 2)
+print(3 * 2)
+print(3 ** 2)
+print(3 / 2)
+print(3 // 2)
+print(3 % 2)
+print(abs(-3))
+print(round(3.75))
+print(round(3.75 ,1))
+num_1 ="100"
+num_2 = "200"
+print(num_1 + num_2)
+num_1= int(num_1)
+num_2 = int(num_2)
+print(num_1 + num_2)
+message = (len("it will help me a lot to improve my self and help me  to keep going in my career and will let me take the second step in my journey in this field . the information i will take from this course will improve me i am looking for a bright future to me and my family so i work harder to achieve that goal and make me a better person than i am and help me to go far  hope u all the best. "))
+print(message)
